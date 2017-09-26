@@ -4,12 +4,13 @@ header {
 }
 body{
     background-color: whitesmoke;
-    font-family: 'Roboto', sans-serif;
+   
 
 }
 main{
     background-color:white;
     padding: 5px;
+    font-family: 'Roboto', sans-serif;
 }
 .post{
     margin-bottom:48px;
